@@ -1,0 +1,4 @@
+pandas
+matplotlib
+plotly==5.24.1
+seaborn
